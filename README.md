@@ -47,6 +47,9 @@ PHP version 7.4 or higher is required, with the following extensions installed:
 - [intl](http://php.net/manual/en/intl.requirements.php)
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 
+## Database Structure 
+Refer to the File records.sql 
+
 > **Warning**
 > The end of life date for PHP 7.4 was November 28, 2022. If you are
 > still using PHP 7.4, you should upgrade immediately. The end of life date

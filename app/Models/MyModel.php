@@ -8,6 +8,7 @@ class MyModel extends Model{
     protected $table = "records";
     protected $primaryKey = "id";
     protected $allowedFields = ["name", "email", "password", "repeat_password"];
+    protected $useSoftDeletes = true;
 
 }
 

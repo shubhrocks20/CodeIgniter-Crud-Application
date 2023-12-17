@@ -33,7 +33,8 @@ CREATE TABLE `records` (
   `email` varchar(255) NOT NULL,
   `password` varchar(20) NOT NULL,
   `repeat_password` varchar(20) NOT NULL,
-  `generated_at` datetime NOT NULL DEFAULT current_timestamp()
+  `generated_at` datetime NOT NULL DEFAULT current_timestamp(),
+  `deleted_at` datetime DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --

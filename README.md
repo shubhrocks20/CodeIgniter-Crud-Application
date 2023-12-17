@@ -20,6 +20,12 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using the
 4. **Delete:** Delete data entries from the database.
 5. **Soft Delete:** Integrate soft delete functionality to mark entries as deleted without removing them from the database.
 
+![Screenshot (93)](https://github.com/shubhrocks20/CodeIgniter-Crud-Application/assets/94545975/5b553b8d-2f08-485a-b10e-958c044ffca2)
+![Screenshot (94)](https://github.com/shubhrocks20/CodeIgniter-Crud-Application/assets/94545975/ae1c4015-d787-472f-9c3a-105373ca4415)
+![Screenshot (95)](https://github.com/shubhrocks20/CodeIgniter-Crud-Application/assets/94545975/0255d7c3-4438-4a22-929d-1201ec7b2ad4)
+
+
+
 ## Installation
 
 1. Clone the repository:

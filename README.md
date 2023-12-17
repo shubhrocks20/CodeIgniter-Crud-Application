@@ -56,6 +56,11 @@ Make sure to configure your database settings in the `app/config/database.php` f
 'database' => 'your_database',
 </code></div></div></pre>
 
+## Database Structure
+
+To recreate the database table structure used in this application, you can use the provided `record.sql` file. This file contains the necessary SQL statements to define the table schema.
+
+
 ## Soft Delete
 
 Soft delete functionality is implemented by adding a `deleted_at` column to your database table. When an entry is deleted, the `deleted_at` timestamp is set, and the entry is considered "soft deleted."
